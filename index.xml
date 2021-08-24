@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pacific coder</title>
-    <link>http://pacific-coder.githun.io/</link>
+    <link>https://manueruperez.github.io/pacific-coder.github.io/</link>
     <description>Recent content on pacific coder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Aug 2021 19:23:30 -0500</lastBuildDate><atom:link href="http://pacific-coder.githun.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 19:23:30 -0500</lastBuildDate><atom:link href="https://manueruperez.github.io/pacific-coder.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first post</title>
-      <link>http://pacific-coder.githun.io/posts/myfirstpost/</link>
+      <link>https://manueruperez.github.io/pacific-coder.github.io/posts/myfirstpost/</link>
       <pubDate>Fri, 20 Aug 2021 19:23:30 -0500</pubDate>
       
-      <guid>http://pacific-coder.githun.io/posts/myfirstpost/</guid>
+      <guid>https://manueruperez.github.io/pacific-coder.github.io/posts/myfirstpost/</guid>
       <description>
         
           &lt;p&gt;Hello&lt;/p&gt;
